@@ -25,7 +25,7 @@ To run this project, you can clone the repository or download the ZIP file and o
 - If no text is entered, the input field will shake, and no QR code will be generated.
 
 ## Author
-- [https://github.com/FarisHaziq02] (Faris Haziq)
+- https://github.com/FarisHaziq02
 
 ```bash
 # Clone the repository
